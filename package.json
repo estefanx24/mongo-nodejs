@@ -1,5 +1,5 @@
 {
-  "name": "mongo-nodejs",
+  "name": "backend-transacciones",
   "version": "1.0.0",
   "description": "API REST para gestionar transacciones de alquiler de scooters",
   "main": "src/app.js",
